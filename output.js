@@ -13,7 +13,6 @@
 
 // * 이전 버전으로 변형(트랜스파일링)되어씩 때문에 const, let 선언을 사용하지 않는 모습을 확인 할 수 있다
 // * arrow function (화살표함수)는 ES6+ 문법이므로, 기본형태로 바뀌었다
-
 var babelTest = function babelTest() {
   return "babel test";
-}
+};
